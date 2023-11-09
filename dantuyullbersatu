@@ -1,5 +1,68 @@
 #EXTM3U
 *curseofbayiajaib*
+#EXTINF:-1   tvg-logo="https://www.freepnglogos.com/uploads/tv-png/tv-png-box-television-set-cable-screen-icon-31.png" group-title="fta freenodasi",Indosiar_ez
+https://ezstat.ru/Indosiar_shareext-ts
+#EXTINF:-1   tvg-logo="https://www.freepnglogos.com/uploads/tv-png/tv-png-box-television-set-cable-screen-icon-31.png" group-title="fta freenodasi",Indosiar_3net
+http://iptvtree.net:8080/live/Vladisergeevic/7eef2c4388/162138.ts
+#EXTINF:-1   tvg-logo="https://www.freepnglogos.com/uploads/tv-png/tv-png-box-television-set-cable-screen-icon-31.png" group-title="fta freenodasi",Indosiar_alfax
+http://aflaxtv.xyz:8080/multi6741/ab72059e/162138
+#EXTINF:-1   tvg-logo="https://www.freepnglogos.com/uploads/tv-png/tv-png-box-television-set-cable-screen-icon-31.png" group-title="fta freenodasi",Indosiar_xtv_dec=auto
+http://xtv.ooo:8080/493121299/992121394/350972
+#EXTINF:-1   tvg-logo="https://www.freepnglogos.com/uploads/tv-png/tv-png-box-television-set-cable-screen-icon-31.png" group-title="fta freenodasi",Indosiar
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:0E:19:18&stream=994885&extension=ts&shareext@indosiar
+#EXTINF:-1   tvg-logo="https://www.freepnglogos.com/uploads/tv-png/tv-png-box-television-set-cable-screen-icon-31.png" group-title="fta freenodasi",Indosiar|pro
+http://shareext@ss123.pro/play/live.php?mac=00:1A:79:00:19:E7&stream=994885&extension=ts&shareext@indosiar
+#EXTINF:-1   tvg-logo="https://www.freepnglogos.com/uploads/tv-png/tv-png-box-television-set-cable-screen-icon-31.png" group-title="fta freenodasi",Indosiar_fta
+http://103.166.27.2:8112/play/a016/index.m3u8
+#EXTINF:-1   tvg-logo="https://www.freepnglogos.com/uploads/tv-png/tv-png-box-television-set-cable-screen-icon-31.png" group-title="fta freenodasi",Antv_fta
+http://103.166.27.2:8112/play/a01g/index.m3u8
+#EXTINF:-1   tvg-logo="https://www.freepnglogos.com/uploads/tv-png/tv-png-box-television-set-cable-screen-icon-31.png" group-title="fta freenodasi",Jtv_fta
+http://103.166.27.2:8112/play/a01s/index.m3u8
+#EXTINF:-1   tvg-logo="https://www.freepnglogos.com/uploads/tv-png/tv-png-box-television-set-cable-screen-icon-31.png" group-title="fta freenodasi",KompasTv_fta
+http://103.166.27.2:8112/play/a019/index.m3u8
+#EXTINF:-1   tvg-logo="https://www.freepnglogos.com/uploads/tv-png/tv-png-box-television-set-cable-screen-icon-31.png" group-title="fta freenodasi",MentariTv_fta
+http://103.166.27.2:8112/play/a018/index.m3u8
+#EXTINF:-1   tvg-logo="https://www.freepnglogos.com/uploads/tv-png/tv-png-box-television-set-cable-screen-icon-31.png" group-title="fta freenodasi",Mojitv_fta
+http://103.166.27.2:8112/play/a017/index.m3u8
+#EXTINF:-1   tvg-logo="https://www.freepnglogos.com/uploads/tv-png/tv-png-box-television-set-cable-screen-icon-31.png" group-title="fta freenodasi",SCTV_fta
+http://103.166.27.2:8112/play/a015/index.m3u8
+#EXTINF:-1   tvg-logo="https://www.freepnglogos.com/uploads/tv-png/tv-png-box-television-set-cable-screen-icon-31.png" group-title="fta freenodasi",Trans7_fta
+http://103.166.27.2:8112/play/a01c/index.m3u8
+#EXTINF:-1   tvg-logo="https://www.freepnglogos.com/uploads/tv-png/tv-png-box-television-set-cable-screen-icon-31.png" group-title="fta freenodasi",TransTv_fta
+http://103.166.27.2:8112/play/a01b/index.m3u8
+#EXTINF:-1   tvg-logo="https://www.freepnglogos.com/uploads/tv-png/tv-png-box-television-set-cable-screen-icon-31.png" group-title="fta freenodasi",TVone_fta
+http://103.166.27.2:8112/play/a01h/index.m3u8
+#EXTINF:-1   tvg-logo="https://www.freepnglogos.com/uploads/tv-png/tv-png-box-television-set-cable-screen-icon-31.png" group-title="fta freenodasi",TvTabalong_fta
+http://103.166.27.2:8112/play/a01z/index.m3u8
+#EXTINF:-1   tvg-logo="https://www.freepnglogos.com/uploads/tv-png/tv-png-box-television-set-cable-screen-icon-31.png" group-title="fta freenodasi",UseePrime_dec=auto
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/tv-png/tv-png-box-television-set-cable-screen-icon-31.png" group-title="FTALOKALGRATISANboss",RCTI_fta
+https://kusnadipepenk.github.io/campeign/rcti.m3u8
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/tv-png/tv-png-box-television-set-cable-screen-icon-31.png" group-title="FTALOKALGRATISANboss",MNCTV_fta
+https://kusnadipepenk.github.io/campeign/mnc.m3u8
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/tv-png/tv-png-box-television-set-cable-screen-icon-31.png" group-title="FTALOKALGRATISANboss",INEWS_fta
+https://d1jn46axq4h80m.cloudfront.net/out/v1/3952b6a062a84558b3d2cab7f85095d8/index.m3u8|User-Agent=Dalvik/2.1.0&id=shareext@inews
+https://kusnadipepenk.github.io/campeign/inews.m3u8
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/tv-png/tv-png-box-television-set-cable-screen-icon-31.png" group-title="FTALOKALGRATISANboss",GTV_fta
+https://kusnadipepenk.github.io/campeign/global.m3u8
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/tv-png/tv-png-box-television-set-cable-screen-icon-31.png" group-title="FTALOKALGRATISANboss",TVone_fta
+https://kusnadipepenk.github.io/campeign/tvone.m3u8
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/tv-png/tv-png-box-television-set-cable-screen-icon-31.png" group-title="FTALOKALGRATISANboss",SCTV_fta
+https://kusnadipepenk.github.io/campeign/sctv.m3u8
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/tv-png/tv-png-box-television-set-cable-screen-icon-31.png" group-title="FTALOKALGRATISANboss",ANTV_fta
+https://kusnadipepenk.github.io/campeign/antv.m3u8
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/tv-png/tv-png-box-television-set-cable-screen-icon-31.png" group-title="FTALOKALGRATISANboss",MetroTv_fta
+https://kusnadipepenk.github.io/campeign/metro.m3u8
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/tv-png/tv-png-box-television-set-cable-screen-icon-31.png" group-title="FTALOKALGRATISANboss",Kompastv_fta
+https://kusnadipepenk.github.io/campeign/kompas.m3u8
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/tv-png/tv-png-box-television-set-cable-screen-icon-31.png" group-title="FTALOKALGRATISANboss",RTV_fta
+https://kusnadipepenk.github.io/campeign/rtv.m3u8
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/tv-png/tv-png-box-television-set-cable-screen-icon-31.png" group-title="FTALOKALGRATISANboss",Tvri_sports庐wpc
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/tv-png/tv-png-box-television-set-cable-screen-icon-31.png" group-title="FTALOKALGRATISANboss",TRANStv_fta 
+https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/tv-png/tv-png-box-television-set-cable-screen-icon-31.png" group-title="FTALOKALGRATISANboss",TRANS7_fta
+https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 #EXTINF:-1,TV1-HD
 https://link.zozotv.xyz:443/FR433/KKFz7/13
 #EXTINF:-1,TV1-FHD
